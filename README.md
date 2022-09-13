@@ -1,10 +1,10 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Boletim Online ACE
 
-Breve descrição do que o seu projeto faz.
+Sistema para preenchimento de boletm de trabalho para agentes de combate as endemias
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+418390 Alexandre Bruno Santiago da Silva
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
