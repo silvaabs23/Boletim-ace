@@ -8,19 +8,21 @@ Sistema para preenchimento de boletm de trabalho para agentes de combate as ende
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Haverá 2 tipos de usuarios o agente e o supervisor
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Agente, Bairro, Larvicida
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
-
+O sistema permite ao agente de comabate as endemias preencher o seu boletim diario de forma online,
+controlar o seu gasto de larvicida,
+ter acesso mais rapidos aos dados que necessita no seu trabalho
+permite ao supervisor receber os dados dos agentes de forma automatica
+possibilita o preenchimento de relatorios mais rapidamente
+controla a produção de cada agente de sua equipe
+gerencia o gasto de larvicida da equipe
 ----
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
@@ -44,9 +46,9 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 
 | Entidade| Criação | Leitura | Atualização | Remoção |
 | --- | --- | --- | --- | --- |
-| Entidade 1 | X |  X  |  | X |
-| Entidade 2 | X |    |  X | X |
-| Entidade 3 | X |    |  |  |
+| Agente|  X  | x| X |x
+| Bairro   |  X | X |
+| Larvicida   | x| x|
 
 > Lembre-se que é necessário implementar o CRUD de pelo menos duas entidades.
 
