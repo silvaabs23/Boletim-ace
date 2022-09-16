@@ -16,7 +16,7 @@ Agente, Bairro, Larvicida
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-O sistema permite ao agente de comabate as endemias preencher o seu boletim diario de forma online,
+O sistema permite ao agente de combate as endemias preencher o seu boletim diario de forma online,
 controlar o seu gasto de larvicida,
 ter acesso mais rapidos aos dados que necessita no seu trabalho
 permite ao supervisor receber os dados dos agentes de forma automatica
